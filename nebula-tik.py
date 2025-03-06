@@ -233,7 +233,7 @@ def main():
     print_banner()
     
     print(f"{Colors.CYAN}╔════════════════════════════════════════╗{Colors.RESET}")
-    print(f"{Colors.CYAN}║ {Colors.TITLE}NEBULA TIK{Colors.RESET}{Colors.CYAN} - QUANTUM VIDEO EXTRACTION ║{Colors.RESET}")
+    print(f"{Colors.CYAN}║ {Colors.TITLE}NEBULA TIK{Colors.RESET}{Colors.CYAN} - QUANTUM VIDEO EXTRACTION  ║{Colors.RESET}")
     print(f"{Colors.CYAN}╚════════════════════════════════════════╝{Colors.RESET}")
     print(f"\n{Colors.HEADER}Ready to download TikTok videos without watermark{Colors.RESET}")
     
